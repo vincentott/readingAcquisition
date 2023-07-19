@@ -7,4 +7,4 @@ We built a convolutional neural network in PyTorch to model reading acquisition 
 
 see project_report for more info
 
-Original Article from Hanngan et al.: doi.org/10.1073/pnas.2104779118
+[Original Article from Hanngan et al. (2021)](<doi.org/10.1073/pnas.2104779118>)
